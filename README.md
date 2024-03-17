@@ -1,2 +1,3 @@
 # test1
-Opis
+
+To jest moje pierwsze repozytorium!
